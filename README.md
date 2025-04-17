@@ -1,6 +1,8 @@
-Revolutionizing Local Transportation – Ride-Hailing Platform Pitch Deck
+#Revolutionizing Local Transportation – Ride-Hailing Platform Pitch Deck
+
 Created by: Keawin Koesnel & Team
 Date: April 2025
+
 🚀 Overview
 This pitch deck presents our ride-hailing platform aimed at digitally transforming local cab services in South Africa. We envision a future where community-based transport providers can thrive in the digital economy — providing safer, more accessible, and affordable rides while empowering drivers with tools that enhance their welfare and income.
 
